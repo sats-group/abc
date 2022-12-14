@@ -8,8 +8,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/olav/abc/internal/files"
-	"github.com/olav/abc/internal/tmpl"
+	"github.com/sats-group/abc/internal/files"
+	"github.com/sats-group/abc/internal/tmpl"
 )
 
 const (

@@ -9,7 +9,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/olav/abc/internal/files"
+	"github.com/sats-group/abc/internal/files"
 )
 
 // Config configures a server instance.

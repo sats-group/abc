@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/codegangsta/negroni"
-	"github.com/olav/abc/internal/files"
+	"github.com/sats-group/abc/internal/files"
 	"github.com/unrolled/secure"
 	"github.com/zenazn/goji/web/middleware"
 )

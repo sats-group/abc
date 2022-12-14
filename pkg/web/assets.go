@@ -17,7 +17,7 @@ import (
 	"time"
 
 	"github.com/microcosm-cc/bluemonday"
-	"github.com/olav/abc/internal/files"
+	"github.com/sats-group/abc/internal/files"
 	"github.com/russross/blackfriday"
 )
 
